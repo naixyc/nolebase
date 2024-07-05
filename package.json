@@ -1,18 +1,18 @@
 {
-  "name": "nolebase",
+  "name": "naixyc",
   "type": "module",
   "version": "1.0.0",
   "author": {
     "name": "Lao Mo",
-    "email": "nolebase@ayaka.moe",
+    "email": "naixyc@163.com",
     "url": "https://github.com/naixyc"
   },
   "license": "MIT",
   "keywords": [
     "vitepress",
-    "nolebase",
+    "naixyc",
     "markdown",
-    "nolebase-integration",
+    "naixyc-integration",
     "obsidian",
     "knowledge-base",
     "vitepress-doc"
