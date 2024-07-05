@@ -29,8 +29,8 @@ export const creators: Creator[] = [
       { type: 'github', icon: 'github', link: 'https://github.com/naixyc' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/' },
     ],
-    nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
-    emailAliases: ['neko@ayaka.moe'],
+    nameAliases: ['naixyc'],
+    emailAliases: ['naixyc@163.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
